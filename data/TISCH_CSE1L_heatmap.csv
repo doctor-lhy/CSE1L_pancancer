@@ -1,0 +1,85 @@
+﻿"Category","Sales per employee (y)","Sales per employee (value)"
+"Immune cells","UVM_GSE139829",0.09
+"Immune cells","STAD_GSE134520",0.04
+"Immune cells","SKCM_GSE72056",0.74
+"Immune cells","PAAD_GSE111672",0.38
+"Immune cells","PAAD_CRA001160",0.13
+"Immune cells","OV_GSE118828",0.14
+"Immune cells","NSCLC_GSE143423",0.12
+"Immune cells","NSCLC_GSE127465",0.1
+"Immune cells","NSCLC_GSE117570",0.07
+"Immune cells","NSCLC_EMTAB6149",0.01
+"Immune cells","HNSC_GSE103322",0.59
+"Immune cells","Glioma_GSE84465",0.42
+"Immune cells","Glioma_GSE141982",0.38
+"Immune cells","Glioma_GSE138794",0.13
+"Immune cells","Glioma_GSE131928_Smartseq2",0.83
+"Immune cells","Glioma_GSE103224",0.11
+"Immune cells","Glioma_GSE102130",1.77
+"Immune cells","CRC_GSE146771_Smartseq2",0.7
+"Immune cells","BRCA_SRP114962",0.61
+"Immune cells","BRCA_GSE143423",0.18
+"Immune cells","ALL_GSE132509",0.15
+"Malignant cells","UVM_GSE139829",0.14
+"Malignant cells","STAD_GSE134520",0.12
+"Malignant cells","SKCM_GSE72056",1.79
+"Malignant cells","PAAD_GSE111672",0.2
+"Malignant cells","PAAD_CRA001160",0.2
+"Malignant cells","OV_GSE118828",0.32
+"Malignant cells","NSCLC_GSE143423",0.17
+"Malignant cells","NSCLC_GSE127465",0.28
+"Malignant cells","NSCLC_GSE117570",0.12
+"Malignant cells","NSCLC_EMTAB6149",0.04
+"Malignant cells","HNSC_GSE103322",2.49
+"Malignant cells","Glioma_GSE84465",0.88
+"Malignant cells","Glioma_GSE141982",0.54
+"Malignant cells","Glioma_GSE138794",0.26
+"Malignant cells","Glioma_GSE131928_Smartseq2",2.34
+"Malignant cells","Glioma_GSE103224",0.25
+"Malignant cells","Glioma_GSE102130",3.84
+"Malignant cells","CRC_GSE146771_Smartseq2",0.9
+"Malignant cells","BRCA_SRP114962",1.29
+"Malignant cells","BRCA_GSE143423",0.43
+"Malignant cells","ALL_GSE132509",0.18
+"Others","UVM_GSE139829",
+"Others","STAD_GSE134520",
+"Others","SKCM_GSE72056",
+"Others","PAAD_GSE111672",0.22
+"Others","PAAD_CRA001160",0.2
+"Others","OV_GSE118828",
+"Others","NSCLC_GSE143423",0.23
+"Others","NSCLC_GSE127465",
+"Others","NSCLC_GSE117570",
+"Others","NSCLC_EMTAB6149",0.01
+"Others","HNSC_GSE103322",
+"Others","Glioma_GSE84465",0.88
+"Others","Glioma_GSE141982",
+"Others","Glioma_GSE138794",0.44
+"Others","Glioma_GSE131928_Smartseq2",2.31
+"Others","Glioma_GSE103224",0.2
+"Others","Glioma_GSE102130",4.78
+"Others","CRC_GSE146771_Smartseq2",
+"Others","BRCA_SRP114962",
+"Others","BRCA_GSE143423",0.5
+"Others","ALL_GSE132509",
+"Stromal cells","UVM_GSE139829",0.13
+"Stromal cells","STAD_GSE134520",0.07
+"Stromal cells","SKCM_GSE72056",1.31
+"Stromal cells","PAAD_GSE111672",0.24
+"Stromal cells","PAAD_CRA001160",0.2
+"Stromal cells","OV_GSE118828",0.25
+"Stromal cells","NSCLC_GSE143423",0.18
+"Stromal cells","NSCLC_GSE127465",0.15
+"Stromal cells","NSCLC_GSE117570",0.21
+"Stromal cells","NSCLC_EMTAB6149",0.02
+"Stromal cells","HNSC_GSE103322",0.81
+"Stromal cells","Glioma_GSE84465",0.62
+"Stromal cells","Glioma_GSE141982",0.16
+"Stromal cells","Glioma_GSE138794",0.18
+"Stromal cells","Glioma_GSE131928_Smartseq2",
+"Stromal cells","Glioma_GSE103224",0.17
+"Stromal cells","Glioma_GSE102130",
+"Stromal cells","CRC_GSE146771_Smartseq2",1.15
+"Stromal cells","BRCA_SRP114962",
+"Stromal cells","BRCA_GSE143423",
+"Stromal cells","ALL_GSE132509",0.11
